@@ -1,5 +1,3 @@
-# desafio-colaborativo-git-UDF
-
 # 🚀 Desafio Colaborativo Git
 ## Apresentação dos membros
 ### **Guilherme Peres** 😎<br> 
